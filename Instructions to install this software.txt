@@ -1,0 +1,7 @@
+Instructions to install any quart_cfdi software versions
+
+1) Unzip the file
+2) Execute it
+
+
+You can delete prior versions of this software if you want.
